@@ -25,9 +25,9 @@
 ![](http://ww2.sinaimg.cn/large/006tNc79ly1g550vbtd0xj30q80clwfj.jpg)
 ## 4.登录steam并获取你的账号url
 ### 方式1，会科学上网或挂加速器，则可以自己获取
-> #####点击好友框左上角自己的头像
+> ##### 点击好友框左上角自己的头像
 ![](http://ww3.sinaimg.cn/large/006tNc79ly1g551h69w7hj309a03574v.jpg)
-> #####复制页面左上方的网页链接（包含一串数字）
+> ##### 复制页面左上方的网页链接（包含一串数字）
 ![](http://ww1.sinaimg.cn/large/006tNc79ly1g551hln5j0j30ig06lacx.jpg)
 ### 方式2，让一个会科学上网的基友帮你获取
 > ##### 让基友右键你的头像，查看个人资料
